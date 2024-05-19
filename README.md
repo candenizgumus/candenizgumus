@@ -1,6 +1,8 @@
 <h1 align="center">Hi , I'm Can Deniz Gumus</h1>
 <h3 align="center">Java Full-Stack Developer</h3>
-<h3 align="center">Unity Game Developer</h3>
+<h3 align="center">Unity Game Developer
+<a href="https://store.steampowered.com/app/2677240/AstroPanic/" target="blank"><img align="center" src="https://i.ytimg.com/vi/XyuOHa8d1hs/maxresdefault.jpg" alt="candenizgumus" height="30" width="40" /></a>
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
