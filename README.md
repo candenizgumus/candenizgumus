@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Can Deniz Gumus</h1>
-<h3 align="center">Full-Stack Developer</h3>
+<h3 align="center">Java Full-Stack Developer</h3>
+<h3 align="center">Unity Game Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
