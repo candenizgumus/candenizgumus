@@ -5,6 +5,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/can-deniz-gumus-1b23a5163/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="candenizgumus" height="30" width="40" /></a>
 <a href="https://instagram.com/candenizgumus" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="candenizgumus" height="30" width="40" /></a>
+  <a href="https://medium.com/@denizgumus1996" target="blank"><img align="center" src="https://seekvectorlogo.com/wp-content/uploads/2021/12/medium-vector-logo-2021.png" alt="candenizgumus" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
